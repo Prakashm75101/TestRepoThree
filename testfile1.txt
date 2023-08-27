@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-I love green color
-=======
-I love yellow color
->>>>>>> 7911be4a565bea116e2366153085728662e57958
+I love pink color
